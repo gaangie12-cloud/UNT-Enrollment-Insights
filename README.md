@@ -9,3 +9,5 @@ I created this dashboard utilizting predicted probabilities from a logistic regr
 - JMP
 - SAS
 - Tableau
+## Full Project Report
+  [UNT Admissions Reccomendation Report (Download PDF)](UNT_Admission_Reccomendation_Report.pdf)
